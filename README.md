@@ -11,6 +11,7 @@ _No description provided._
 ## Layout
 
 - `manifest.json` — machine-readable project metadata
+- `requirements.txt` — Python dependencies required to run the tests
 - `tests/*.py` — generated Selenium scripts (one per test case)
 - `tests/*.json` — per-test metadata sidecars
 
